@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchPlay.Api", "ArchPlay.Api\ArchPlay.Api.csproj", "{F8939FCE-3C29-491C-B322-78B1B868E667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchPlay.Core", "ArchPlay.Core\ArchPlay.Core.csproj", "{A7AF1D71-189C-426C-8D94-56E369D414D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8939FCE-3C29-491C-B322-78B1B868E667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8939FCE-3C29-491C-B322-78B1B868E667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8939FCE-3C29-491C-B322-78B1B868E667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8939FCE-3C29-491C-B322-78B1B868E667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7AF1D71-189C-426C-8D94-56E369D414D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AF1D71-189C-426C-8D94-56E369D414D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AF1D71-189C-426C-8D94-56E369D414D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AF1D71-189C-426C-8D94-56E369D414D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9760F81-2258-4001-802B-6BDD605186B6}
+	EndGlobalSection
+EndGlobal
