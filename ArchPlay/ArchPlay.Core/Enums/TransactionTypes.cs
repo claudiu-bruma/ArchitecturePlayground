@@ -2,10 +2,10 @@
 
 public enum TransactionTypes
 {
-    Debit,
-    Credit,
-    Tax,
-    Correction,
-    Interest,
-    Fee
+    Debit = 0,
+    Credit = 1,
+    Tax = 2,
+    Correction = 3,
+    Interest = 4,
+    Fee = 5,
 }
